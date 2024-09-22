@@ -1,0 +1,10 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP
+"AFF1,AFF2,AFF3",LTS-6960HR,https://datasheet.octopart.com/LTS-6960HR-Lite-On-datasheet-11803242.pdf,Display_7Segment:7SegmentLED_LTS6760_LTS6780,3,
+"J1,J2,J3",Conn_01x04_Pin,~,zmpt101b:zmpt101b,3,
+J4,Screw_Terminal_01x03,~,TerminalBlock:TerminalBlock_Xinya_XY308-2.54-3P_1x03_P2.54mm_Horizontal,1,
+J5,Screw_Terminal_01x02,~,TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,1,
+J6,Conn_01x07_Pin,~,double channel realy:double channel relay,1,
+"R1,R2,R3",R,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,3,
+R4,4.7K,~,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,
+U1,ESP32-DEVKIT-V1,,ESP32:ESP32,1,
+U2,NRF24L01P-MODULE-PCB,,NRF24L01P-MODULE-PCB:XCVR_NRF24L01P-MODULE-PCB,1,
